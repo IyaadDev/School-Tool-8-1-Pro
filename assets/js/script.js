@@ -1,4 +1,4 @@
-    var pass = "mypassword";
+    var pass = "SCT01";
 console.log( "pass = " + pass );
 
 var date = new Date(); // Now
@@ -25,3 +25,5 @@ while (true) {
     break;
   }
 }
+
+//super insecure password protection, pull request with update if anyone could help
