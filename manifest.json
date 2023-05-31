@@ -1,1 +1,23 @@
-{"name":"School Tool Premium","icons":[{"src":"https://8-1-pro.schooltool.cf/assets/img/ofxsct.png?h=d2d214d36d44e927e6149e8fb98dba0c","type":"image/png","sizes":"376x354","purpose":"any maskable"},{"src":"https://8-1-pro.schooltool.cf/assets/img/ofxsct.png?h=d2d214d36d44e927e6149e8fb98dba0c","type":"image/png","sizes":"376x354","purpose":"any maskable"}],"start_url":"index.html","display":"fullscreen","orientation":"landscape"}
+{
+  "name": "School Tool Premium",
+  "icons": [
+    {
+      "src": "https://8-1-pro.schooltool.cf/assets/img/ofxsct.png?h=d2d214d36d44e927e6149e8fb98dba0c",
+      "type": "image/png",
+      "sizes": "376x354",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://8-1-pro.schooltool.cf/assets/img/ofxsct.png?h=d2d214d36d44e927e6149e8fb98dba0c",
+      "type": "image/png",
+      "sizes": "376x354",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "School Tool Premium"
+}
